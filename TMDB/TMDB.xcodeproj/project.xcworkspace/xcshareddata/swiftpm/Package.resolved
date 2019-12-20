@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "2f9d171f17869768f6dbec1d039b851e2503af35",
+          "version": "5.12.0"
+        }
+      },
+      {
+        "package": "XCDYouTubeKit",
+        "repositoryURL": "https://github.com/0xced/XCDYouTubeKit.git",
+        "state": {
+          "branch": null,
+          "revision": "21168d0a50601bce698268db78768a01844cb36c",
+          "version": "2.8.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
